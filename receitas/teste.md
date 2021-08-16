@@ -6,6 +6,10 @@ Este arquivo criei utilizando o codigo:
 
 commit:
 
+git add *
+
+git commit -m "descrição"
+
 git remote add origin 'url'
 
 git remote -v
